@@ -1,0 +1,5 @@
+Flightcontrol Palau.py is the main file that should be run.
+
+Willem Rood
+Group B
+4973739
